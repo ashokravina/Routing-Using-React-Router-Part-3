@@ -75,8 +75,8 @@
   font-size: 14px;
 }
 .blogItem-link {
-  border: 1px solid #ffffff;
-  outline: none;
-  cursor: pointer;
-  border-bottom: 0px solid #ffffff;
+ text-decoration: none;
+  margin: 8px;
+  color: white;
+  font-family: 'Roboto';
 }
